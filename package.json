@@ -4,13 +4,13 @@
     "version": "1.0.2",
     "author": "wireapp",
     "private": true,
-    "homepage": "https://github.com/wireapp/action-auto-cherry-pick",
+    "homepage": "https://github.com/andriib-huma/action-auto-cherry-pick",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wireapp/action-auto-cherry-pick.git"
+        "url": "git+https://github.com/andriib-huma/action-auto-cherry-pick.git"
     },
     "bugs": {
-        "url": "https://github.com/wireapp/action-auto-cherry-pick/issues"
+        "url": "https://github.com/andriib-huma/action-auto-cherry-pick/issues"
     },
     "keywords": [
         "actions",
