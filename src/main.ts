@@ -54,7 +54,7 @@ export async function run(): Promise<void> {
             '41898282+github-actions[bot]@users.noreply.github.com'
 
         const shouldFastForwardSubmodules = submodulesTargetBranch !== ''
-        const newBranchSuffix = '-cherry-pick'
+        const newBranchSuffix = '-cherry-pick-to/' + targetBranch
 
         const originalBranch = mergedPR.head.ref
         const newBranchName = originalBranch + newBranchSuffix
