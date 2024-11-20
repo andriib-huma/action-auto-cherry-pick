@@ -1,4 +1,4 @@
-name: 'PR Cherry Pick (mutli-branch)'
+name: 'PR Cherry Pick (multi-branch)'
 description:
     'Cherry-picks commits from a merged PR, creating a new PR to a target branch'
 author: 'andriib-huma'
